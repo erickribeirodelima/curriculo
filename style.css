@@ -48,3 +48,12 @@ a {
 a:hover{
     text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        width: 90%;
+        margin: auto;
+        font-family: sans-serif;
+        background: linear-gradient(90deg, #00bdde 0%, #fc00ff 100%);
+    }
+}
