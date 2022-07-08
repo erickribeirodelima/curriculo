@@ -56,4 +56,12 @@ a:hover{
         font-family: sans-serif;
         background: linear-gradient(90deg, #00bdde 0%, #fc00ff 100%);
     }
+    
+    h1 {
+        font-size: 25px;
+    }
+
+    h3, h4, p {
+        padding-left: 15px; 
+     }
 }
